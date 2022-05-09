@@ -39,7 +39,7 @@
             "category": [
                 "System"
             ],
-            "provider": "Metrics",
+            "provider": "Apache HTTP Server",
             "agent": "Metrics-2 :: stable-es",
             "created": "2021-07-28T19:46:00.000Z",
             "network_ref": "network-traffic--29460399-c597-5f89-8800-f5b2cd0b256f",
